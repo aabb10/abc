@@ -1,0 +1,139 @@
+# Sections content configuration file
+## 
+### use navigation.yml file to re-order, delete or add section of each card
+### here you can find all content in all pre-build sections
+
+### About [ about ]
+about:
+  image: "assets/img/man2.jpg"
+  text: "<p>11111111</p>"
+  list:
+    - label: "Age"
+      value: "242"
+
+    - label: "Residence"
+      value: "2dsaf"
+
+    - label: "Address"
+      value: "dsfa"
+
+    - label: "Phone"
+      value: "+adsfdsaf"
+
+    - label: "E-mail"
+      value: "a@gmail.com"
+
+### Services [ services ]
+services:
+  title: "Services"
+  items:
+    - icon: "fas fa-code"
+      name: "sadfasd"
+      text: "dsafdsf"
+
+    - icon: "fas fa-mobile-alt"
+      name: "dfasdsf"
+      text: "dsafdsaf"
+
+### Resume [ resume ]
+resume:
+  education:
+    title: "Education"
+    items:
+      - year: "21312"
+        name: "adsfas"
+        text: "dsafdsaf"
+
+### Skills [ skills ]
+skills:
+  columns:
+    - type: "dotted" #skills progress type - default, dotted, circles, list
+      title: "Languages Skills"
+      items:
+        - label: "adsf"
+          value: "40" #0-100 progress in %
+
+        - label: "Edsf"
+          value: "20" #0-100 progress in %
+
+        - label: "afsafese"
+          value: "95" #0-100 progress in %
+
+        - label: "Cdsaf"
+          value: "40" #0-100 progress in %
+
+    - type: "circles" #skills progress type - default, dotted, circles, list
+      title: "Coding Skills"
+      items:
+        - label: "adsf"
+          value: "21" #0-100 progress in %
+
+        - label: "ads"
+          value: "21" #0-100 progress in %
+
+        - label: "dsaf"
+          value: "34" #0-100 progress in %
+
+        - label: "dsafa"
+          value: "30" #0-100 progress in %
+
+    - type: "list" #skills progress type - default, dotted, circles, list
+      title: "Knowledge"
+      items:
+        - label: "dasf"
+          value: "" #0-100 progress in %
+
+        - label: "iOS and android apps"
+          value: "" #0-100 progress in %
+
+        - label: "Create logo design"
+          value: "" #0-100 progress in %
+
+        - label: "Design for print"
+          value: "" #0-100 progress in %
+
+        - label: "Modern and mobile-ready"
+          value: "" #0-100 progress in %
+
+        - label: "Advertising services include"
+          value: "" #0-100 progress in %
+
+        - label: "Graphics and animations"
+          value: "" #0-100 progress in %
+
+        - label: "Search engine marketing"
+          value: "" #0-100 progress in %
+      
+### Custom Text [ text ]
+text:
+  title: "Custom Text"
+  text: "
+        <p>
+            Now there is more fashion. There is no so-called trends. Now chase after anything not necessary — nor for fashionable color nor the shape, nor for style. Think about the content that you want to invest in a created object, and only then will form. The thing is your spirit. A spirit unlike forms hard copy.
+        </p>
+        <p>
+            Here choose yourself like that, without any looking back, do your personal, home, small fashion, and all will be well.
+        </p>
+        "
+
+### Contact Info [ contacts-info ]
+contacts_info:
+  title: "Contacts Info"
+  list:
+    - label: "Phone"
+      icon: "fas fa-phone"
+      value: "+31241"
+
+    - label: "Email"
+      icon:  "fas fa-envelope"
+      value: "<a href='mailto:a@gmail.com'>a@gmail.com</a>"
+
+    - label: "Address"
+      icon: "fas fa-map-marker-alt"
+      value: "dsafdsaf동"
+
+
+### Contact Form [ contacts-form ]
+contacts_form:
+  title: "Contact Form"
+

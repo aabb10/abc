@@ -1,12 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="325ec152-4275-4bd2-a3a5-5385e8b2c7d2" name="변경" comment="change">
+    <list default="true" id="4da3e9d2-ec9d-4e31-9600-cff10bb5162a" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/category_list.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/subcategory_list.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2019-12-15-this-is-a-draft.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/article-card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header-home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/more-help.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/reading-time.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/category.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/subcategory.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/Customizing Odin/2019-12-20-adding-your-logo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/Customizing Odin/2019-12-20-changing-odin-base-content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/Customizing Odin/2019-12-20-changing-odin-colors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/Customizing Odin/2019-12-20-changing-odin-fonts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/Using Odin/2019-12-20-creating-a-category.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/Using Odin/2019-12-20-creating-a-new-article.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/Using Odin/2019-12-20-deploying-to-github-pages.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/Using Odin/2019-12-20-using-authors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/Using Subcategories/2019-11-10-welcome-to-odin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_avatars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_breadcrumbs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_cards.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_codes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_dropdowns.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_landing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_menus.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_navs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/mixins/_avatar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/mixins/_button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/mixins/_color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/mixins/_label.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/mixins/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/mixins/_shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/mixins/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/mixins/_toast.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/utilities/_colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/utilities/_cursors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/utilities/_divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/utilities/_loading.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/utilities/_shapes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scss/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/odin-meta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customizing-odin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subcategory-one.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/using-odin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/using-subcategories.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +92,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2H4el9AnDgr5biGPz6kO07nfLgP" />
+  <component name="ProjectId" id="2IqdQRH57jYtKsBJPUDCegSabKB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,23 +103,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/hayu1/Desktop/abc",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
-      <changelist id="325ec152-4275-4bd2-a3a5-5385e8b2c7d2" name="변경" comment="" />
-      <created>1667548931843</created>
+      <changelist id="4da3e9d2-ec9d-4e31-9600-cff10bb5162a" name="변경" comment="" />
+      <created>1670913031338</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667548931843</updated>
-      <workItem from="1667548933789" duration="2062000" />
+      <updated>1670913031338</updated>
+      <workItem from="1670913034137" duration="263000" />
     </task>
     <servers />
   </component>
@@ -63,9 +131,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="change" />
-    <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
 </project>
