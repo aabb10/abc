@@ -23,8 +23,8 @@ title: "a"
 email: "a@gmail.com"
 description: "기초웹개발론 공부"
 author: "a"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "/aabb10.github.io/abc" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/abc" # the subpath of your site, e.g. /blog
+url: "/aabb10.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
 
 # paginations & permalinks
